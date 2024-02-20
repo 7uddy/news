@@ -1,0 +1,26 @@
+[
+    {
+        "newsId": 1,
+        "content": "Brasov oras turistic",
+        "publisherId": 1,
+        "isApproved": false
+    },
+    {
+        "newsId": 2,
+        "content": "Incendiu in centru",
+        "publisherId": 2,
+        "isApproved": false
+    },
+    {
+        "newsId": 3,
+        "content": "Autobuze noi",
+        "publisherId": 3,
+        "isApproved": false
+    },
+    {
+        "newsId": 4,
+        "content": "Proteste",
+        "publisherId": 1,
+        "isApproved": false
+    }
+]
